@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay towards an history of all the remarkable providences which have happened in this present age As also of what is curious in the works of nature and art. With parallel instances from former ages. By William Turner, M.A. and Vicar of Walberton in Sussex. To be publish'd by way of subscription.</title>
+            <author>Turner, W. (William), fl. 1687-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63938</idno>
+            <idno type="STC">Wing T3345A</idno>
+            <idno type="STC">ESTC R222428</idno>
+            <idno type="EEBO-CITATION">99833606</idno>
+            <idno type="PROQUEST">99833606</idno>
+            <idno type="VID">38084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38084)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2067:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay towards an history of all the remarkable providences which have happened in this present age As also of what is curious in the works of nature and art. With parallel instances from former ages. By William Turner, M.A. and Vicar of Walberton in Sussex. To be publish'd by way of subscription.</title>
+                  <author>Turner, W. (William), fl. 1687-1701.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing</note>
+                  <note>Imperfect; pages are stained.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Creation --  Early works to 1800.</term>
+               <term>Providence and government of God --  Early works to 1800.</term>
+               <term>Holiness --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="subscription_proposal">
+            <pb facs="tcp:38084:1" rendition="simple:additions"/>
+            <head>AN ESSAY TOWARDS AN HISTORY Of all the <hi>Remarkable Providences</hi> Which have happened in This Preſent Age. As alſo of what is Curious in the Works of Nature and Art. With Parallel INSTANCES from former Ages.
+<hi>By</hi> William Turner, <hi>M. A.</hi> and Vicar <hi>of</hi> Walberton <hi>in</hi> Suſſex. To be Publiſh'd by way of Subſcription.</head>
+            <p>A Work of this Nature was ſet on foot about 30 years ago, by the Learned Mr. <hi>Pool,</hi> Author of the <hi>Synop<g ref="char:EOLhyphen"/>ſis Criticorum;</hi> but, for what Reaſons we know not, it was laid aſide, and nothing has ſince appeared on that Subject but a ſmall <hi>Eſſay,</hi> to invite ſome others to go on with the Work. The Reverend Mr. <hi>Turner</hi> (whoſe late <hi>Hiſtory of all Religions</hi> hath met with good acceptation) having made Collections proper for ſuch an Undertaking, during the <hi>Courſe of his Reading, and Miniſtry,</hi> for near 30 years, and finding; that it is not attempted by any other Hand, is reſolved to go on with it, as being fully ſatisfied, That a Work of this kind, muſt needs be of <hi>Great <g ref="char:V">Ʋ</g>ſe;</hi> eſpecially to ſuch pious minds as delight to obſerve the manifeſtations which God doth give of himſelf, Both in his works of <hi>Creation <hi>and</hi> Providence;</hi> the former are ſufficient to render thoſe who have no other Inſtructers inexcuſable, as we are taught by the Apoſtle, <hi>Rom.</hi> 1.20. and the excellency of the latter conſiſts in this, that they are the <hi>Real accompliſhments of his written word,</hi> ſo that to <hi>Record Providences,</hi> ſeems to be one of the beſt methods that can be purſued againſt the abounding <hi>Atheiſm</hi> of this Age, for by <hi>works of providence, the Confeſſion of a God, and the truth of his word</hi> have been extorted from thoſe very per<g ref="char:EOLhyphen"/>ſons who have boldly denied it; <hi>Memorable</hi> is that paſſage of <hi>Æſchyles</hi> the <hi>Perſian</hi> in <hi>Traged:</hi> who relating his Countrymens diſcomfiture by the <hi>Greeks,</hi> gives us this obſervation that when the <hi>Grecians</hi> purſued them furiouſly over the great River <hi>Strymon,</hi> which was then frozen, but began to thaw, he did with his own Eyes ſee many of thoſe <hi>Gallants</hi> whom he had heard before, maintain ſo <hi>boldly that there was no God;</hi> every one upon their knees, with eyes and hands Lifted up, begging for mercy; and that the Ice might not break till they got over.</p>
+            <p>The <hi>Scepticks</hi> of this age, may poſſibly call ſuch a paſſage in Queſtion, but what can the moſt <hi>Obdurate Atheiſt</hi> ſay to thoſe providences about the <hi>Jews;</hi> which were ſo clearly foretold in the Scriptures, and part of 'em are viſible to their own Eyes. Is not this ſufficient to convince them of the being of an Omniſcient God, that the ſacred Scrip<g ref="char:EOLhyphen"/>tures are his <hi>Revealed Will;</hi> and that <hi>Christianity is the only true Religion.</hi> We doubt not but thoſe men who are able to hold out againſt ſuch a convinceing demonſtration, will <hi>flout at this undertaking;</hi> and expoſe it all they can, but they may Remember the conqueſt which truth made over their great Champions, Mr. <hi>Hobbs, My Lord Rocheſter,</hi> and Sir <hi>Alan Broderick,</hi> providences which merit their thoughts, and may ſerve to ſtop their mouths. But to come to the <hi>deſign in hand:</hi> It being certainly an incumbent duty according to the <hi>Pſalmiſt,</hi> for <hi>one Generation to praiſe the Works of the Lord to Another, and to declare his mighty Acts;</hi> Pſal. 145.4.</p>
+            <p n="1">I. We have conſulted <hi>many,</hi> and deſign to peruſe all Authors that we can meet with, <hi>Ancient or Modern,</hi> who have writ on this Subject (as <hi>The Treaſury of Ancient and Modern Times, Camerarius, Beard, Clark, Wanly,</hi> &amp;c. and others lately publiſht); and make a Collection of the <hi>Choiceſt</hi> paſſages, in order to the <hi>Parallel</hi> betwixt ancient and modern inſtances, which cannot but be very ſerviceable conſidering that many of thoſe Authors are now become <hi>Scarce,</hi> who re<g ref="char:EOLhyphen"/>corded the <hi>providences of former ages;</hi> and that there are multitudes of remarkable paſſages, relating to the <hi>preſent age,</hi> ſcattered in ſo many Books, which its hardly poſſible for any <hi>one man</hi> to have all of 'em by him.</p>
+            <p n="2">II. We our ſelves have already collected, and received from Credible Hands, <hi>many remarkable Paſſages</hi> which were never yet printed; and deſign to collect as many more as we can, relating to this Preſent Age.</p>
+            <p n="3">III. We do hereby invite all men, eſpecially <hi>Divines,</hi> to impart unto us any ſuch <hi>Remarkable Providences</hi> as they have recorded, or remember to have befallen themſelves, or others, either in <hi>Mercy or Judgment.</hi>
+            </p>
+            <p n="4">IV. We deſire, for the <hi>Improvement of the Collections</hi> which we have already made, that ſuch as have any by them, would ſend to us their Obſervations—of <hi>Extraordinary Deliverances by Sea or Land,—Earthquakes,—unuſual Thunders,</hi> &amp;c. <hi>Inundations,—ſtrange Apparitions,</hi> (but let theſe be well atteſted)<hi>—Witchcrafts, —Diabolical Poſſeſſions,—Appearances in the Regions of the Air,—remarkable Meteors,—exhalations iſſuing out of the earth,</hi> or <hi>Prodigies of any ſort,—Strange Beaſts, Sheep, Horſe, —of any unuſual Quality, or mixed Generation, or wonderful Bigneſs, or any other Animal atten<g ref="char:EOLhyphen"/>ded with any unuſual Circumſtances—</hi> You are alſo deſired to ſend us <hi>accounts of any strange accidents that have befallen men or women,—remarkable Diſcoveries of Murther,—any prodigious Births,—Numerous Off-ſprings, —Perſons of extra<g ref="char:EOLhyphen"/>ordinary stature, remarkable either for</hi> Exceſs <hi>or</hi> Defect,<hi>—of prodigious Memorys,—any that have ſtrange Antipathies
+<pb facs="tcp:38084:2"/>to Meats, Drinks, Animals, parts of Animals,—of unuſual Sleep or Watchings,—Night-Walkers</hi> (in their ſleep, we mean),<hi>—Predictions that have ſtrangely come to paſs,—of men of extream age,—of ſudden Deaths</hi> (extraordinarily Circumſtantiated),<hi>—of any reputed dead that have ſtrangely come to Life again,—any thing remarkable that attends a Family, or ſingle perſon in their Lives or Deaths, as Lights or Noiſes,</hi> &amp;c.<hi>—Dwarfs, with their age, and place of abode,—any Improvement in any of the Liberal or Mechanick Arts,—any Valuable Manuſcripts,—or what elſe you have</hi> remarkable, <hi>of any kind, the publiſhing whereof may be either a Service to the publick, or to particular perſons;</hi> which if ſent, ſhall not fail to be inſerted in its proper place.</p>
+            <p>Theſe are the <hi>Heads</hi> we deſire the ingenious Reader, wherever they may come maturely to conſider, and to ſend us <hi>accounts</hi> of as many of them as fall under his <hi>own proper Experience and Knowledge,</hi> directed to <hi>John Dunton,</hi> at the <hi>Raven</hi> in <hi>Jewen-ſtreet;</hi> whence, with all convenient ſpeed, they ſhall be tranſmitted to the Preſs, in the manner alrea<g ref="char:EOLhyphen"/>dy deſcribed, with ſuch <hi>Improvements</hi> on the different Heads, as the Reverend <hi>Author</hi> (who is to compile this work) can make, either from his <hi>own</hi> Experience, or the <hi>beſt Writers.</hi> But always remember, that what you ſend be circum<g ref="char:EOLhyphen"/>ſtantiated with the Name of the <hi>County, Town, and Place,</hi> you fend it from, and of the particular perſons concern'd, when the caſe requires it (for we ſhall not take notice of any thing that is <hi>trifling,</hi> or <hi>uncertain</hi>); and that you pay the Poſtage of all Letters (relating to this Work), that ſo the Undertaker may not be impoſed upon, nor diſcouraged in this <hi>uſeful attempt,</hi> which we have now a fair opportunity to accompliſh, having received promiſes of <hi>aſſistance</hi> from perſons of Great <hi>Learning and Curioſity;</hi> (We have alſo the promiſe of a <hi>Folio Manuſcript,</hi> written by the Fa<g ref="char:EOLhyphen"/>thers, that will be ſo kind as to impart their <hi>Obſervations</hi> to us, that they ſhall be received with all <hi>Candor and Gratitude</hi> imaginable, and the <hi>Names of the Authors</hi> publiſhed, if permitted, that the publick may know to whom they are indebted for the promoting of ſuch an <hi>uſeful Work.</hi>
+            </p>
+            <p>As the <hi>Mercies <hi>and</hi> Judgments</hi> of God are not confin'd to any particular party, therefore, as we have already col<g ref="char:EOLhyphen"/>lected, we deſign alſo to embrace all <hi>well atteſted Relations,</hi> from Chriſtians of what Denomination ſoever, provided they have not a Tendency to reflect upon any Subdiviſions of Proteſtants; for we will not inſert any thing that ſavours of Faction or Animoſity amongſt Brethren, but will endeavour to make the Work as unexceptionable as may be, to all moderate and pious men.</p>
+            <p>Seeing it hath pleaſed God to manifeſt much of his Glory in the <hi>Works of Creation,</hi> and much of his <hi>Goodneſs</hi> to men by inſpiring them with <hi>uſeful and delightful Inventions,</hi> we deſire, that ſuch as have made any Choice Collections, or Obſervations, relating either to <hi>Nature</hi> or <hi>Art,</hi> would be pleaſed to ſend them to us, and particularly any thing, that may contribute to the <hi>Natural Hiſtory</hi> of the Three Kingdoms, or advance the Reputation of their Inhabitants, by publiſhing what <hi>uſeful Arts</hi> or Things they have <hi>either invented</hi> or <hi>improved</hi> (as any rare or curious <hi>Engine,</hi> &amp;c.) By means whereof the World will be made acquainted with the <hi>Perſons eminently curious in any Handicraft,</hi> and wherein their Excellency lies.</p>
+            <p>We do alſo invite all <hi>Divines,</hi> and others, to communicate to us any Remarkable <hi>Epi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aphs</hi> in Church-yards, <hi>&amp;c.</hi> be<g ref="char:EOLhyphen"/>cauſe many of them contain a <hi>ſhort Hiſtory</hi> of the perſons upon whom they are made; which is not to be found elſe<g ref="char:EOLhyphen"/>where, as we are fully ſatisfied by ſuch <hi>Collections of that ſort</hi> as we have made already.</p>
+            <p>Moreover, That nothing might be wanting to render our Work perfect, we have been at the charges to purchaſe what we found for our purpoſe in Mr. <hi>William Miller</hi>'s <hi>Catalogue,</hi> lately publiſh'd (which being a <hi>curious Collection of Papers and Pamphlets of all ſorts,</hi> from the year 1600 down to this day) we have been there accommodated with ſeve<g ref="char:EOLhyphen"/>ral Relations from divers parts of the Three Kingdoms, as well as from Forreign Parts, as alſo with <hi>Modern Inſtances</hi> upon <hi>Atheiſm, Murder, Adultery, Theft, Drunkenneſs,</hi> and other Subjects, no where elſe to be found, which will be no ſmall Entertainment to the Reader to find them here collected into One Volume, under proper Heads.</p>
+            <p>We deſign alſo to conſult the <hi>Prerogative Office</hi> in <hi>London,</hi> &amp;c. for <hi>Wills</hi> of ſuch Atheiſtical Wits as <hi>Hobbs</hi> and others, who being at laſt overcome by the Truth, were forced to give ſolemn Atteſtations thereunto.</p>
+            <p>The <hi>Method</hi> propoſed to be followed, is to rank every thing under its proper Head, with ſome <hi>little Introducti<g ref="char:EOLhyphen"/>on</hi> to each, and to cite our <hi>Authorities</hi> in the Margin, as in the following <hi>Specimen;</hi> only we ſhall be more particular in our Collections than any that have preceeded us, as to the <hi>Female Sex,</hi> who are generally too much ſlighted in Works of this Nature, tho there have been as remarkable Inſtances of the <hi>Vertues and Vices</hi> of that Sex as of our own, as well as of ſome curious <hi>Peices of Art</hi> performed by them of which the <hi>Queens</hi>
+               <note n="(a)" place="margin">Now to be ſeen in <hi>Green Court</hi> in the <hi>Old Jury.</hi>
+               </note> 
+               <hi>Effigies,</hi> and other Curioſities, lately done in Wax by Mrs. <hi>Goldſmith,</hi> is an undeniable Argument.—So that this <hi>Hiſtory <hi>of</hi> Providence.</hi> &amp;c, will not only be of ſingular uſe to Miniſters, in furniſhing <hi>Topicks of Reproof and Exhortation,</hi> but may ſerve as a Mo<g ref="char:EOLhyphen"/>nitor to perſons of all <hi>Ranks and Qualities,</hi> in their Cloſets, and Families. And this particular advantage may be reapt by this Undertaking, That thoſe who have obſerv'd any <hi>remarkable Providences,</hi> either as to themſelves or others, or have by 'em in writing, <hi>the <hi>Dying Words</hi> of their Friends,</hi>—or the account of their <hi>Converſions</hi> (if very remarkable,) may have them recorded in this Work; So that their own Poſterity, and ſucceeding Generations, may have the ad<g ref="char:EOLhyphen"/>vantage of them; whereas they would have otherwiſe been utterly loſt.</p>
+            <p>In the <hi>Laſt Piace,</hi> we think fit to acquaint the publick, That in order to the preventing of all Cavils and Excepti<g ref="char:EOLhyphen"/>ons, and preventing all Cauſes of Offence, we deſign that the <hi>whole Work</hi> ſhall be perus'd by ſome <hi>Eminent Divines,</hi> before it be put to the Preſs, whoſe <hi>Sentiments</hi> thereof under their Hands, ſhall be publiſh'd at the Beginning of the Work.</p>
+            <p>
+               <g ref="char:dtristar">*⁎*</g> That the publick may be able to form the better <hi>Idea</hi> of our Deſign, we have thought fit to ſubjoyn the following <hi>Specimen.</hi>
+            </p>
+            <p>☞ <hi>Propoſals</hi> and <hi>Specimens</hi> are to be had of the <hi>
+                  <g ref="char:V">Ʋ</g>ndertaker, <hi>John Dunton,</hi>
+               </hi> at the <hi>Raven</hi> in <hi>Jewen-ſtreet,</hi> as alſo of <hi>Edm. Richardſon,</hi> near the <hi>Poultrey</hi> Church, and of moſt <hi>Bookſellers</hi> in <hi>London</hi> and the Countrey.</p>
+            <div type="proposals">
+               <head>PROPOSALS.</head>
+               <list>
+                  <item>I. THAT this Work, as near as we can judg, will contain about <hi>Three Hundred Sheets,</hi> Printed in large <hi>Folio,</hi> with the <hi>ſame Letter,</hi> (and not upon that <hi>ſmall</hi> Letter the following <hi>Specimen</hi> is printed on) and on Paper of the <hi>ſame goodneſs</hi> with theſe Propoſals.</item>
+                  <item>II. For the Encouragement of thoſe that Subſcribe, it is propoſed at 30 s. a Book in Quires, 15 s. to be paid in hand, and 15 s. at Delivery; and if it happens to make above <hi>Three Hundred Sheets,</hi> the Subſcribers ſhall have it, paying only one Penny for every ſuch <hi>additional</hi> ſheet.</item>
+                  <item>III. For a further Encouragement to thoſe that Promote it, any Gentleman who will Subſcribe for ſix Books, ſhall have a ſeventh <hi>Gratis,</hi> which will reduce the <hi>Three hundred Sheets</hi> to 1 <hi>l.</hi> 5 <hi>s.</hi> 8½ <hi>d. per</hi> Book in Quires, which, conſidering, the <hi>vaſt Expence</hi> for <hi>Materials</hi> requiſite for carrying on, and compleating ſo great a Work, and the extraordinary fineneſs of the Paper, cannot but be thought very reaſonable.</item>
+                  <item>IV. To thoſe that do not ſubſcribe by the firſt of <hi>September</hi> next, the ſaid 300 ſheets ſhall not be ſold under 35 <hi>s.</hi> in Quires.</item>
+                  <item>V. All Gentlemen who ſubſcribe, ſhall have their <hi>Names and Titles,</hi> &amp;c. (if permitted) annexed when the whole i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> compleated.</item>
+                  <item>VI. The <hi>firſt Volume</hi> ſhall be ready to be delivered to Subſcribers next <hi>Hillary Term,</hi> and the <hi>Second</hi> with all poſſible Expedition.</item>
+                  <item>VII. Thoſe that deſire the Publication of this <hi>uſeful Work,</hi> and expect the benefit of theſe <hi>Propoſals,</hi> are requeſted to ſend their <hi>firſt payment</hi> with what ſpeed they can to the <hi>
+                        <g ref="char:V">Ʋ</g>ndertaker</hi> (who will give a receipt for the ſame); for no<g ref="char:EOLhyphen"/>thing but the <hi>backwardneſs</hi> of the Subſcribers can hinder the compleating of it at the time prefixt.</item>
+               </list>
+            </div>
+            <div type="sample">
+               <pb facs="tcp:38084:1"/>
+               <head>The Specimen.</head>
+               <head type="sub">
+                  <hi>Atteſtations</hi> to the Truth of the Chriſtian Religion, from <hi>Atheiſtical Wits,</hi> who had formerly denied the Being of God, and diſputed with the greateſt ſtrength of their Carnal Reaſon againſt all Religion.</head>
+               <p>THE <hi>Conceſſions of Adverſaries</hi> is always Reckoned a good Argument for the Confirmation of a <hi>Controverted Truth,</hi> nor does Omnipotence ever manifeſt it ſelf with greater Majeſty, then when it extorts a <hi>Confeſſion</hi> of Gods overuling providence from <hi>VVicked men and Devils;</hi> what <hi>Emphaſis</hi> is there in <hi>Nebuchadnezzars</hi> Acknowledge<g ref="char:EOLhyphen"/>ment, that the <hi>moſt high doth according to his will in the Army of Heav'n, and among the Inhabitants of the Earth, and none can ſtay his hand; or ſay unto him what doſt thou? Dan.</hi> 6.35. And tho our bleſſed Saviour diſdain'd ſuch a Teſtimony, yet the Power and Majeſty of God was mightily ſeen in that Confeſſion, which we find ſo often extorted from the <hi>Devils</hi> in the Goſpel, that he was the <hi>Holy one of God, and the Son of the most High,</hi> and when we Conſider thoſe paſſages, and that <hi>Divine Air,</hi> which ſounds in the declaration of the falſe prophet <hi>Balaam,</hi> Num. 24. <hi>I ſhall ſee him but not now, I ſhall behold him but not nigh, there ſhall come a Star out of</hi> Jacob, <hi>and a Scepter ſhall riſe out of Iſrael.</hi> We have no reaſon to doubt but that the Lofty Rapture of the Oracle of <hi>Delphos</hi> may be true.</p>
+               <q>
+                  <l>—<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </q>
+               <p>Which I find thus Ingeniouſly tranſlated into Latin and Engliſh.</p>
+               <q>
+                  <l>Me puer Hebraeus, Divos Deus ipſe Gubernans,</l>
+                  <l>Cedere ſede jubet triftemque redire ſub orcum</l>
+                  <l>Aris ergo dehinc tacitis abſcedito noſtris.</l>
+               </q>
+               <q>
+                  <l>
+                     <hi>An Hebrew Child whom the bleſt Gods adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Hath bid me leave theſe ſhrines and pack to Hell,</hi>
+                  </l>
+                  <l>
+                     <hi>So that of Oracles, I can no more:</hi>
+                  </l>
+                  <l>
+                     <hi>In ſilence leave our Altar, and farewel.</hi>
+                  </l>
+               </q>
+               <p>Upon the return of which Anſwer from that Oracle, the Emperor <hi>Auguſtus</hi> cauſed an Altar to be Erected in the Capitol with this Inſcription, <hi>haec est ara primogeniti Dei.</hi> And the famous Acknowledgment of <hi>Julian</hi> the Apoſtate when mortally wound<g ref="char:EOLhyphen"/>ed by an Arrow,<note place="margin">
+                     <hi>Julian</hi> the Apostate dies, acknowledging the Truth of the <hi>Chriſtian Religion.</hi>
+                  </note> 
+                  <hi>Viciſti tandem Galilee,</hi> is another remarkable inſtance of the power of God in extorting a Confeſſion of the Truth of Chriſtianity from one of its moſt implacable Enemies.</p>
+               <p>This we think ſufficient as a Taſte of what may be produced, as to <hi>Confeſſions of God and Chriſt,</hi> which have been extorted by Remarkable Providences in preceeding Ages; and we have rea<g ref="char:EOLhyphen"/>ſon to bleſs his Holy Name, that he hath not left us without Obſervable Atteſtations of the ſame Nature in this preſent Age.</p>
+               <p>The firſt we ſhall mention are the Earl of <hi>Marlbourgh</hi>'s Let<g ref="char:EOLhyphen"/>ters from on Board the Fleet. <hi>April</hi> 24. 1665.</p>
+               <p>The Earl of <hi>Marlbourgh,</hi> whoſe two moſt Devout and Peni<g ref="char:EOLhyphen"/>tential Letters are herewith Publiſh'd, was a perſon of great un<g ref="char:EOLhyphen"/>derſtanding and wit: The Scene of his Life lay chiefly in <hi>Voyages</hi> and expeditions by Sea, whereby he made many laborious at<g ref="char:EOLhyphen"/>tempts to repair the Collapſed Eſtate of his Anceſtors; but it pleaſed not God to give him the Succeſs he hoped for therein.</p>
+               <p>It is wholly unfit for any Writer to touch upon any irreligi<g ref="char:EOLhyphen"/>ous principles or practiſes, that were as ſtains in his Life, ſince he hath, by his own Noble Pen in the following Letters, ac<g ref="char:EOLhyphen"/>knowledged them, and by his moſt exemplary Repentance waſh<g ref="char:EOLhyphen"/>ed them off.</p>
+               <p>Mr. <hi>Roger Coke</hi> in the <hi>ſecond</hi> Volume of his <hi>Detection,</hi> p. 142, mentions, <hi>That the Fight wherein the Duke of</hi> York <hi>beat the</hi> Dutch, <hi>and</hi> Opdam <hi>was blown up, was the</hi> 3d <hi>of</hi> June, 1665. <hi>and that in this Fight the</hi> Engliſh <hi>lost the Renown'd Earl of</hi> Marlbourgh, <hi>who, tho Admiral in K.</hi> Charles <hi>the firsts time, died here a private Cap<g ref="char:EOLhyphen"/>tain.</hi>
+               </p>
+               <p>But it pleaſed God, in that Naval Expedition, to work in him ſuch a ſenſe of his Sins, as did infinitely make amends for the former diſappointments he met with by Sea or Land.</p>
+               <p>The Date of his firſt Letter being the 24th of <hi>April,</hi> and that of the Second, the 23d of <hi>May</hi> following, will ſatisfy any can<g ref="char:EOLhyphen"/>did Reader, that the New Birth in him was accompanied with may <hi>pangs</hi> and <hi>efforts</hi> of great conſideration during the firmneſs of his bodily Health, and much tranſcending the low Nature of poor <hi>Death-bed Repentances,</hi> which are ſo juſtly ſuſpected by our Practical <hi>Divines</hi> of all perſwaſions.</p>
+               <p>And here it is neceſſary to acquaint the Reader that theſe two <hi>Letters</hi> of diſtant <hi>Dates</hi> were ſent by his Lordſhip from the Royal Navy, incloſed in other Letters to Mr. <hi>Tredewy,</hi> his Lordſhip's Agent in <hi>London;</hi> with a particular Inſtruction, both as to that to Sir <hi>Hugh Pollard,</hi> and that to Mr. <hi>Glaſcock,</hi> that each of them was to be delivered when Mr. <hi>Tredewy</hi> was credibly inform'd of his Lordſhips Death. His deſign being, that his Pen ſhould Preach Repentance to the World, in caſe he lived not to be a perſonal Adviſer thereof himſelf.</p>
+               <p>The Publiſher hereof aſſures the Reader, that both the <hi>Letters</hi> had a happy influence on the Lives of the two perſons, to whom they were directed, and that Sir <hi>Hugh Pollard</hi> having lent the <hi>Ori<g ref="char:EOLhyphen"/>ginal Letter</hi> which was ſent to him, to Sir W. <hi>Davenant,</hi> to ſhew it to whom he pleaſed; Sir <hi>VVilliam</hi> ſhew'd it to the <hi>Publiſher</hi> among many others: And that Mr. <hi>Glaſcock</hi> permitted the <hi>Publiſher</hi> to take a Copy of that Letter directed to him. The Reader may then awaken his moſt ſerious Thoughts to conſider the two fol<g ref="char:EOLhyphen"/>lowing Letters.</p>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Letter from the right Honourable <hi>James Earl</hi> of <hi>Marl<g ref="char:EOLhyphen"/>bourgh,</hi> a little before his Death, in the Battle at Sea on the Coaſt of <hi>Holland, 1665,</hi>—To the right Honour<g ref="char:EOLhyphen"/>able Sir <hi>Hugh Pollard,</hi> Comptroller of His Majeſties Houſe-hold.</head>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>
+                        <note place="margin">See Dr. <hi>Lloyd's</hi> fair warning to a careleſs world, for a Copy of this Letter of the Earl of <hi>Marle<g ref="char:EOLunhyphen"/>bourgh</hi> to Sir <hi>Hugh Pol<g ref="char:EOLhyphen"/>lard.</hi>
+                        </note> I Believe the goodneſs of your Nature, and the Friendſhip you have always born me, will receive with kindneſs this laſt Office of your Friend; I am in Health enough of Body, and through the mercy of God, in Jeſus Chriſt, well diſpoſed in mind: This I premiſe that you may be ſatisfied, that what I write proceeds not from any Phantaſtick Terror of mind, but from a ſober Reſolution of what concerns my ſelf, and earn<g ref="char:EOLhyphen"/>eſt deſire to do you more good after my Death, than mine Ex<g ref="char:EOLhyphen"/>ample (God of his mercy pardon the badneſs of it) in my Life<g ref="char:EOLhyphen"/>time, may have done you harm. I will not ſpeak ought of the Vanity of this World; your own Age and Experience will ſave that Labour; but there is a certain thing that goes up and down in the World, call'd <hi>Religion,</hi> Dreſt and Preſented Phantaſtically, and to purpoſes bad enough, which yet by ſuch evil Dealing, loſeth not its Being. The great and good God hath not left it without a Witneſs more or lefs, ſooner or later in every mans boſom, to direct us in the purſuit of it; and for the avoiding of thoſe Inextricable difficulties and intangle<g ref="char:EOLhyphen"/>ments our own frail Reaſon would perplex us withal; God in his infinite mercy has given us his Holy word, in which, as there are many things hard to be Underſtood, ſo there is enough plain and eaſy to be underſtood, to quiet our minds, and direct us concerning our future being: I confeſs to God and you, I have been a great neglecter, and I fear, deſpiſer of it. God of his infinite mercy pardon me that dreadful Fault; but when <hi>I retired my ſelf</hi> from the noiſe and deceitful Vani<g ref="char:EOLhyphen"/>ties of the world, I found no true comfort in any other Reſo<g ref="char:EOLhyphen"/>lution, than what I had from thence: I commend the ſame from the bottom of my Heart, to your (I hope happy) uſe. Dear, Sir <hi>Hugh,</hi> let us be more generous than to believe we Die like Beaſts that periſh, but with a Chriſtian, Manly, brave Ambition, let us look to what is Eternal. I will not trouble you farther, the only Great and Holy God, Father, Son and Holy Ghoſt, direct you to an happy end of your Life, and ſend us a joyful Reſurrection. So prays your dear Friend,</p>
+                     <closer>
+                        <signed>Marlbourgh.</signed>
+                        <dateline>
+                           <hi>Old</hi> James, <hi>near the Coaſt of</hi> Hol<g ref="char:EOLhyphen"/>land, <date>24th <hi>of</hi> April, 1665.</date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>I beſeech you commend my love to all my Acquaintance: particularly, I pray you that my Cozen <hi>Glaſſock</hi> may have a ſight of this Letter, and as many of my Friends beſide, as you will, or any elſe that deſireth it: I pray grant this my Requeſt.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>
+                        <hi>To</hi> William Glaſcock, <abbr>
+                           <hi>Eſq</hi>
+                        </abbr>
+                     </head>
+                     <opener>
+                        <salute>Dear Cozen,</salute>
+                        <date>
+                           <hi>May</hi> the 23. 1665.</date>
+                     </opener>
+                     <p>
+                        <note place="margin">This Letter to Mr. <hi>Glaſ<g ref="char:EOLhyphen"/>cock</hi> was ne<g ref="char:EOLhyphen"/>ver printed be<g ref="char:EOLhyphen"/>fore, but is at<g ref="char:EOLhyphen"/>teſted to be ge<g ref="char:EOLhyphen"/>nuine in the following <hi>Spe<g ref="char:EOLhyphen"/>cimen.</hi>
+                        </note> IN caſe I be called away by God in this preſent Employ<g ref="char:EOLunhyphen"/>ment, I have recommended theſe few Lines to you, firſt earneſtly begging God Almighty his moſt merciful Pardon, and yours, for the very bad example, and many provocati<g ref="char:EOLhyphen"/>ons to ſin I have given you. Next, I do moſt heartily de<g ref="char:EOLhyphen"/>ſire you to make uſe of your Remaining Time, in beſtowing it upon his Service, who only can be your Comfort at your latter end, when all the former Pleaſures of your Life ſhall only leave Anguiſh and Remorſe. If God had ſpared me Life inſtead of this Paper, I would, through his Grace, have indeavoured to have been as aſſiſtful to you in minding you of true Piety, as the care of mine own life could have inabled me; do not think that melancholly Vapours cauſe this; it is Gods great mercy that by this Employment hath made me know my ſelf, for which his Name be for ever Praiſed.</p>
+                     <p>Laſtly, I Pray ſhew theſe few Lines to my Lord of <hi>Port<g ref="char:EOLhyphen"/>land,</hi> by which I in like manner, and for the ſame cauſe, crave his pardon, wiſhing you both the bleſſed peace and content of a good Conſcience towards God, and a happy end of your Lives.</p>
+                     <closer>
+                        <signed>
+                           <hi>Your truly Loving Cozen.</hi> Marlbourgh.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:38084:3"/>
+               <p>My Lord <hi>Marlbourgh</hi>'s Letter to Sir <hi>Hugh Pollard</hi> having been diſperſt throughout the Kingdom, this <hi>Remarkable Pene<g ref="char:EOLhyphen"/>tence</hi> of his Lordſhip was the Subject of <hi>general Diſcourſe</hi> for a long time after, and 'tis not doubted but that his Lordſhip's Letter to Mr. <hi>Glaſcock</hi> (which was never printed but in this Specimen) will be as well received; and 'tis hoped, may have the ſame good Effect as the former had.</p>
+               <p>The Gentleman who hath communicated to us theſe Letters ſent by the Earl of <hi>Marlbourgh</hi> to Sir <hi>Hugh Pollard</hi> and Mr. <hi>Glaſcock;</hi> is a <hi>Perſon of Quality,</hi> now living in <hi>London,</hi> and if any one hath the curioſity to be ſatisfied from his own mouth about the perfect certainty of the matters therein Re<g ref="char:EOLhyphen"/>lated, if he repairs to Mr. <hi>Darker</hi> in <hi>Bull-head-Court,</hi> near <hi>Cripple<g ref="char:EOLhyphen"/>gate,</hi> he will be always ready to bring any Gentleman to ſpeak with him for further confirmation.</p>
+               <p>It muſt needs be obvious to every conſidering Reader, that the ſame holy ſpirit who breath'd from the mouth of <hi>Solomon,</hi> the wi<g ref="char:EOLhyphen"/>ſeft of men, <hi>That all things in this World are Vanity and Vexation of Spirit,</hi> did make this Great Man ſenſible of the Truth thereof by his own Experience, and to expreſs it accord<g ref="char:EOLhyphen"/>ingly; and how obſervable is it, that that very Truth which he ſo ingenuouſly confeſſes <hi>himſelf to have neglected and deſpiſed,</hi> did at laſt make an entire Conqueſt over him, and force him to ſubmit, as if God would thereby let us ſee, that <hi>though not many Noble, and not many Wiſe are called,</hi> yet he does not leave the Goſpel without a Teſtimony, even from ſuch, but obliges them to confeſs, That <hi>the Wiſdom of this World is meer Fooliſh<g ref="char:EOLhyphen"/>neſs with God,</hi> which will appear yet more by the following Inſtances.</p>
+               <p>It's taken notice of that Sir<note n="*" place="margin">
+                     <hi>In Sir</hi> Alan Brodericks <hi>Fu<g ref="char:EOLhyphen"/>neral Sermon by</hi> Nathan. Resbury, <hi>Mi<g ref="char:EOLhyphen"/>niſter of</hi> Wandſworth, Decemb. 3. 1680.</note> 
+                  <hi>Alan Broderick,</hi> who was a Gentle<g ref="char:EOLhyphen"/>man of Extraordinary Learning and Accompliſhments, did own with much Contrition, that a Long Scene of his Life had been acted in the <hi>Sports</hi> and <hi>Follies</hi> of Sin, that he had ſomtime purſued a Pagan and abandon'd way, Septiciſm it ſelf not ex<g ref="char:EOLhyphen"/>cepted, wherein the poinancy of his Wit, and the ſtrength of his Reaſoning, even in that very Argument, the uſing of which proclaims a man in the Language of the Holy Scriptures, a Fool, may have been the occaſion of a great deal of miſchief towards ſome that are already gone to their Accounts.</p>
+               <p>Yet ſome years before his <hi>Death,</hi> the bent and tendency of his Life and Actions was Devout and Religious, and in his <hi>Pri<g ref="char:EOLhyphen"/>vate Converſation</hi> with his Miniſter, he would always be Diſ<g ref="char:EOLhyphen"/>courſing ſome Caſes of Conſcience about Retir'd Cloſet-prayer, or the Nature and Neceſſity of <hi>True Religion</hi>—and in his laſt Sickneſs he thought himſelf under a mighty Incumbency to Pray, but was much haraſſed and anxious what to do, becauſe of his fear of not performing it, with all becoming Reverence and Seriouſneſs.</p>
+               <p>For <hi>look you,</hi> ſaith he, <hi>my Conſcience is now as tender as wet Paper, torn upon every apprehenſion of the leaſt guilt before God</hi>— And as he had much ſtudied the Nature of Repentance, he would frequently complain, That he had a great jealouſy up<g ref="char:EOLhyphen"/>on himſelf, leſt he had not yet <hi>conceiv'd an horror</hi> anſwerable to his paſt Exorbitancies of Life, and had not made thoſe ſmart and <hi>pungent</hi> Reflections upon himſelf, that might become one that had ſo long, and in ſuch <hi>Exalted Degrees violated the Laws of his Maker,</hi> and made himſelf ſo Obnoxious to the Vengeance of his Judgment, and that if the <hi>cutting off one of his hands</hi> with the other, were but a proper or likely way through the anguiſh of ſuch a wound to give him a juſt horror for his ſins, he would do that as willingly as he ever did any one Action that had giv<g ref="char:EOLhyphen"/>en him the <hi>greateſt pleaſure of Life.</hi>—He alſo ſaid that by the grace of God, he had ſuch a <hi>ſenſe of the Conviction</hi> and folly and unreaſonableneſs of Sin, that no Argument, no Tentati<g ref="char:EOLhyphen"/>on ſhould prevail upon him to do the like again.—Having taken notice that all my Lord <hi>Rochesters</hi> Religious breathings were accounted by ſome, the Raves and Delirancies of a ſick Brain, he did reſolve to have given the World a publick Ac<g ref="char:EOLhyphen"/>count of the ſentiments he had of Religion, both as to the Faith and Practiſe of it, but was prevented.</p>
+               <p>Mr. <hi>Hobbs,</hi> who was ſo much noted in the World for his <hi>Athe<g ref="char:EOLhyphen"/>iſtical</hi> Writings; inſomuch that his Book, intituled, The <hi>Levia<g ref="char:EOLhyphen"/>than,</hi> was condemned by the Parliament in their Bill againſt <hi>A<g ref="char:EOLhyphen"/>theiſm and Profaneneſs, Octob.</hi> 1666. and both that and his book <hi>de Cive,</hi> by the Convocation, <hi>July</hi> 21. 1683. Yet the E. of <hi>De<g ref="char:EOLhyphen"/>von</hi>'s<note n="*" place="margin">
+                     <hi>Ath. Oxon.</hi> part 2. p. 483.</note> Chaplain hath left it on Record concerning him, That he received the <hi>Communion</hi> from his hands, with much ſeeming Devo<g ref="char:EOLhyphen"/>tion, about two years before his death, than which there cannot be a more <hi>expreſs acknowledgment</hi> of the truth of Chriſtianity. And this methinks ſhould daunt the confidence of his Followers, the <hi>Hobbists,</hi> who, becauſe he was born on <hi>Goodfriday,</hi> are not aſha<g ref="char:EOLhyphen"/>med blaſphemouſly to ſay, <hi>That as our Saviour Chriſt went out of the world on that day to ſave the men of the world, ſo another Saviour came into the world on that day to ſave them.</hi>
+               </p>
+               <p>But the next inſtance of the E. of <hi>Rochester,</hi> is ſtill more convin<g ref="char:EOLhyphen"/>cing, who as it appears by his <hi>Funeral Sermon,</hi> did with very much abhorrence exclaim againſt that abſurd and <hi>fooliſh Philoſophy,</hi> which the World ſo much admired, and was propagated by the late Mr. <hi>Hobbs,</hi> and others, which had undone him and many more of the beſt parts of the Nation.</p>
+               <p>My Lord <hi>Rocheſter</hi> being awakt from his Spiritual Slumber by a pungent <hi>Sickneſs,</hi> as appears by his <hi>Funeral</hi>
+                  <note n="*" place="margin">See my Ld. <hi>Rocheſter's</hi> Funeral Ser<g ref="char:EOLhyphen"/>mon, Preached by Mr. <hi>Parſons Aug. 9. 1680.</hi>
+                  </note> 
+                  <hi>Sermon,</hi> Preached by Mr. <hi>Parſons, Aug.</hi> 9. 1680.—Upon the Preachers firſt Viſit to him, <hi>May</hi> 26. my Lord thankt God, who had in <hi>Mercy and good Providence,</hi> ſent him to him, who ſo much needed his Prayers and Counſels, acknowledging how unworthily heretofore he had treated that Order of men, reproaching them that they were proud, and Propheſied only for Rewards, but now he had learnt how to value them, that he eſteem'd them the <hi>Servants of the moſt high God, who were to ſhew to him the way to everlaſting Life.</hi>
+               </p>
+               <p>He commanded me, <hi>(continues our Author,)</hi> to Preach abroad, and let all men know, if they knew it not already, how ſeverely God had diſciplin'd him for his ſins, by his Afflicting Hand, that his <hi>ſufferings were moſt Juſt,</hi> tho he had laid ten Thouſand times more upon him, how he had laid one ſtripe upon another, becauſe of his <hi>grievous Provocation,</hi> till he had brought him home to himſelf, that in his former Viſitation, he had not that bleſſed Effect he was now ſenſible of, he had formerly ſome <hi>looſe thoughts, and ſlight Reſolutions</hi> of reforming, and deſign'd to be better, becauſe even the preſent conſequences of ſin were ſtill peſtering him, and were ſo troubleſome and inconvenient to him, but now he had <hi>other ſentiments of things, and a<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d upon other principles.</hi> He was willing to die, if it pleaſed God, reſign<g ref="char:EOLhyphen"/>ing himſelf always to the Divine Diſpoſal; but if God ſhould ſpare him yet a longer time here, he hoped to bring Glory to the Name of God in the <hi>whole courſe of his Life,</hi> and particu<g ref="char:EOLhyphen"/>larly by his Endeavours to convince others, and to aſſure them of the Danger of their Conditions, if they continued Impeni<g ref="char:EOLhyphen"/>tent, and how graciouſly God hath dealt with him.—<hi>The time of his Sickneſs and Repentance was just nine Weeks,</hi> in all which time, thirty hours about the middle of it excepted, wherein he was delirous; he was ſo much <hi>Master of his Reaſon,</hi> and had ſo clear an underſtanding, that he never dictated, or ſpake more compoſed in his Life. Three or four days before his Death, he had Comfortable Perſwaſions of God's accepting him to his mercy, ſaying, <q>I ſhall Die, but Oh, what unſpeakable Glories; do I ſee? What Joys beyond Thought or Expreſſion am I ſen<g ref="char:EOLhyphen"/>ſible of? I am aſſured of God's mercy to me, through Jeſus Chriſt. O! how I long to die, and to be with my Sa<g ref="char:EOLhyphen"/>viour.</q>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <head>His Dying Remonſtrance.</head>
+                     <p>For the benefit of all thoſe whom I may have drawn into ſin by my Example and Encouragement, I leave to the World this my <hi>laſt Declaration,</hi> which I deliv<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r in the preſence of the great God, who knows the Secrets of all Hearts, and before whom I am now appearing to be Judged.</p>
+                     <p>
+                        <note place="margin">The Lord <hi>Ro<g ref="char:EOLhyphen"/>cheſter</hi>'s dying Remonſtrance.</note> That from the <hi>bottom of my Soul</hi> I deteſt and abhor the whole Courſe of my former wicked Life, that I think I can never ſufficiently admire the Goodneſs of God who has given me a lively ſenſe of my pernicious Opinions and vile practices by which I have hitherto Liv'd without hope, and without God in the World; have been an open Enemy to Jeſus Chriſt, doing the <hi>
+                           <g ref="char:V">Ʋ</g>tmost deſpire to the holy Spirit of Grace,</hi> and that the greateſt Teſtimony of my Charity to ſuch is to warn them in the name of God, and as they regard the wel<g ref="char:EOLhyphen"/>fare of their immortal Souls, no more to deny his being, or his providence, or deſpiſe his Goodneſs, no more to make a mock of ſin, or contemn the pure and excellent Religion of my ever Bleſſed Redemer, thro' whoſe Merits alone I, one of the <hi>Greatest of Sinners,</hi> do yet hope for Mercy and Forgivenneſs. <hi>Amen.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <hi>Declared in the preſence of</hi> 
+                           <list>
+                              <item>Anne Rocheſter</item>
+                              <item>Rob. Parſons.</item>
+                              <item>J. Rocheſter.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>We had prepared a larger account of this remarkable peni<g ref="char:EOLhyphen"/>tence of the E. of <hi>Rochester,</hi> but for want of room muſt reſerve it for that further <hi>Specimen</hi> of this work which is to be annext to a New Peice of <hi>Mr. Turner</hi>'s now in the Preſs, entituled, [<hi>An Eſſay upon the Works of Creation and Providence,</hi> &amp;c.] which will be publiſht in few days, being deſign'd as an <hi>Introductory</hi> Diſcourſe to this <hi>Hiſtory of Providence.</hi>— To this <hi>further Specimen</hi> will be added a <hi>Penitential Letter</hi> writ by a <hi>Perſon of Quality</hi> in <hi>Gloſterſhire</hi> (lately deceas'd) with other <hi>Remarkable Instan<g ref="char:EOLhyphen"/>ces</hi> of that Nature, never yet in Print which for want of room cou'd not be inſerted here. — But though this <hi>Specimen</hi> will not allow of <hi>inſtances under every head.</hi> (for if it wou'd, we had added <hi>Specimens</hi> upon the <hi>Works of Nature and Art,</hi> as we have done here upon <hi>Providence,</hi> having prepared ma<g ref="char:EOLhyphen"/>terials for that end); yet by what is here exhibited, the ingeni<g ref="char:EOLhyphen"/>ous Reader may eaſily perceive the uſefulneſs of our deſign; and as a further Evidence thereof, we ſhall only add, That under the Head of <hi>[Atteſtations given to Religion by dying Princes,]</hi> who ac<g ref="char:EOLhyphen"/>knowledg'd the ſame to be preferable to all things elſe: We ſhall (from the beſt Authorities) Record the <hi>last ſayings</hi> of our never enough Lamented Soveraign, the late Q. <hi>Mary</hi> as a Noble Teſti<g ref="char:EOLhyphen"/>mony to Religion, from one whoſe Parts and Endowments were as <hi>high as her Dignity,</hi> as if Providence would not leave the pro<g ref="char:EOLhyphen"/>phane Age room to ſay that Religion was only pretended to by the <hi>mean</hi> and <hi>ignorant,</hi> but convince them by the dying Breath of a Princeſs every way ſo Glorious and Great.</p>
+               <p>Under the Head of <hi>[Signal Deliverances]</hi> we doubt not but the Reader will eaſily be convinc'd that the <hi>Relation</hi> of the <hi>Miracu<g ref="char:EOLhyphen"/>lous Deliverance</hi> of the Proteſtants in <hi>Ireland,</hi> from the Crueltys of Q. <hi>Mary</hi> I. As alſo the Account of Sir <hi>Henry Wyat</hi>'s wonderful Preſervation in the <hi>Tower,</hi> will deſerve a place; the Firſt, be<g ref="char:EOLhyphen"/>ing Atteſted by Biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher,</hi> and delivered to the Publiſher by a <hi>Perſon of Quality,</hi> now living in <hi>London;</hi> (and is wholly omitted by Mr. <hi>Fox</hi> in his <hi>Acts and Monuments,</hi>) and the other being drawn up by a <hi>Learned Gentleman,</hi> and never Printed before.—Of theſe things we ſhall treat more at large in the <hi>Body of the Work,</hi> but think this ſufficient to <hi>whet</hi> the Reader's Curioſity, and to give him a <hi>taſte</hi> of what Entertainment he is to expect under <hi>other Heads,</hi> as well as theſe mentioned.— [When our <hi>further Specimen</hi> is ready for Publication, there will be notice given.]</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
